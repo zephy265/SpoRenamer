@@ -14,6 +14,7 @@ namespace SpoRenamer
             //When you run this code it renames the files and places then in the new folder.
             //It is a project I developed to test my c sharp programming skills. 
             // Phase two is to try and develop a GUI application.
+            //This has been backed up to github
 
 
             string[] filesToRename = Directory.GetFiles("C:/tmp"); // Gets all the files in the directory c:/tmp/
